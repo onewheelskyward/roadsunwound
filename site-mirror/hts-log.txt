@@ -1,0 +1,54 @@
+HTTrack3.49-2 launched on Wed, 09 Feb 2022 15:04:54 at http://roadsunwound.com
+(httrack -F "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.81 Safari/537.36" http://roadsunwound.com -O r2 )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+15:06:58	Error: 	"Method Not Allowed" (405) at link roadsunwound.com/xmlrpc.php (from roadsunwound.com/)
+15:11:09	Error: 	"Not Found" (404) at link roadsunwound.com/wp-content/themes/modularity/images/product-arrows.png (from roadsunwound.com/wp-content/themes/modularity/style.css)
+15:11:09	Error: 	"Not Found" (404) at link roadsunwound.com/wp-content/plugins/shashin/public/display/fancybox/fancybox/fancy_close.png (from roadsunwound.com/wp-content/plugins/shashin/public/display/fancybox/jquery.fancybox.css?ver=1.3.4)
+15:11:09	Error: 	"Not Found" (404) at link roadsunwound.com/wp-content/plugins/shashin/public/display/fancybox/fancybox/fancy_nav_left.png (from roadsunwound.com/wp-content/plugins/shashin/public/display/fancybox/jquery.fancybox.css?ver=1.3.4)
+15:11:09	Error: 	"Not Found" (404) at link roadsunwound.com/wp-content/plugins/shashin/public/display/fancybox/fancybox/fancy_nav_right.png (from roadsunwound.com/wp-content/plugins/shashin/public/display/fancybox/jquery.fancybox.css?ver=1.3.4)
+15:11:09	Error: 	"Not Found" (404) at link roadsunwound.com/wp-content/plugins/shashin/public/display/fancybox/fancybox/fancy_title_over.png (from roadsunwound.com/wp-content/plugins/shashin/public/display/fancybox/jquery.fancybox.css?ver=1.3.4)
+15:11:09	Error: 	"Not Found" (404) at link roadsunwound.com/wp-content/plugins/shashin/public/display/fancybox/fancybox/fancy_title_left.png (from roadsunwound.com/wp-content/plugins/shashin/public/display/fancybox/jquery.fancybox.css?ver=1.3.4)
+15:11:09	Error: 	"Not Found" (404) at link roadsunwound.com/wp-content/plugins/shashin/public/display/fancybox/fancybox/fancy_title_main.png (from roadsunwound.com/wp-content/plugins/shashin/public/display/fancybox/jquery.fancybox.css?ver=1.3.4)
+15:11:09	Error: 	"Not Found" (404) at link roadsunwound.com/wp-content/plugins/shashin/public/display/fancybox/fancybox/fancy_title_right.png (from roadsunwound.com/wp-content/plugins/shashin/public/display/fancybox/jquery.fancybox.css?ver=1.3.4)
+15:11:09	Error: 	"Not Found" (404) at link roadsunwound.com/wp-content/plugins/shashin/public/display/fancybox/fancybox/fancy_loading.png (from roadsunwound.com/wp-content/plugins/shashin/public/display/fancybox/jquery.fancybox.css?ver=1.3.4)
+15:11:09	Error: 	"Not Found" (404) at link roadsunwound.com/wp-content/plugins/shashin/public/display/fancybox/fancybox/fancy_shadow_n.png (from roadsunwound.com/wp-content/plugins/shashin/public/display/fancybox/jquery.fancybox.css?ver=1.3.4)
+15:11:09	Error: 	"Not Found" (404) at link roadsunwound.com/wp-content/plugins/shashin/public/display/fancybox/fancybox/fancy_shadow_ne.png (from roadsunwound.com/wp-content/plugins/shashin/public/display/fancybox/jquery.fancybox.css?ver=1.3.4)
+15:11:09	Error: 	"Not Found" (404) at link roadsunwound.com/wp-content/plugins/shashin/public/display/fancybox/fancybox/fancy_shadow_e.png (from roadsunwound.com/wp-content/plugins/shashin/public/display/fancybox/jquery.fancybox.css?ver=1.3.4)
+15:11:09	Error: 	"Not Found" (404) at link roadsunwound.com/wp-content/plugins/shashin/public/display/fancybox/fancybox/fancy_shadow_se.png (from roadsunwound.com/wp-content/plugins/shashin/public/display/fancybox/jquery.fancybox.css?ver=1.3.4)
+15:11:09	Error: 	"Not Found" (404) at link roadsunwound.com/wp-content/plugins/shashin/public/display/fancybox/fancybox/fancy_shadow_s.png (from roadsunwound.com/wp-content/plugins/shashin/public/display/fancybox/jquery.fancybox.css?ver=1.3.4)
+15:11:09	Error: 	"Not Found" (404) at link roadsunwound.com/wp-content/plugins/shashin/public/display/fancybox/fancybox/fancy_shadow_sw.png (from roadsunwound.com/wp-content/plugins/shashin/public/display/fancybox/jquery.fancybox.css?ver=1.3.4)
+15:11:09	Error: 	"Not Found" (404) at link roadsunwound.com/wp-content/plugins/shashin/public/display/fancybox/fancybox/fancy_shadow_w.png (from roadsunwound.com/wp-content/plugins/shashin/public/display/fancybox/jquery.fancybox.css?ver=1.3.4)
+15:11:09	Error: 	"Not Found" (404) at link roadsunwound.com/wp-content/plugins/shashin/public/display/fancybox/fancybox/fancy_shadow_nw.png (from roadsunwound.com/wp-content/plugins/shashin/public/display/fancybox/jquery.fancybox.css?ver=1.3.4)
+15:14:23	Warning: 	Found for roadsunwound.com/2012/07/12/720/announcement/trackback/
+15:14:23	Warning: 	File has moved from roadsunwound.com/2012/07/12/720/announcement/trackback/ to http://roadsunwound.com/2012/07/12/720/announcement/
+15:15:24	Error: 	"Not Found" (404) at link roadsunwound.com/wp-content/themes/modularity/styles/src/grid.png (from roadsunwound.com/wp-content/themes/modularity/styles/screen.css)
+15:25:08	Warning: 	Found for roadsunwound.com/about/img_2004/trackback/
+15:25:08	Warning: 	File has moved from roadsunwound.com/about/img_2004/trackback/ to http://roadsunwound.com/about/img_2004/
+15:27:50	Warning: 	Found for roadsunwound.com/2012/04/18/a-return-to-the-road/img_2046/trackback/
+15:27:50	Warning: 	File has moved from roadsunwound.com/2012/04/18/a-return-to-the-road/img_2046/trackback/ to http://roadsunwound.com/2012/04/18/a-return-to-the-road/img_2046/
+15:27:52	Warning: 	Found for roadsunwound.com/2012/04/18/a-return-to-the-road/img_2037/trackback/
+15:27:52	Warning: 	File has moved from roadsunwound.com/2012/04/18/a-return-to-the-road/img_2037/trackback/ to http://roadsunwound.com/2012/04/18/a-return-to-the-road/img_2037/
+15:27:52	Warning: 	Found for roadsunwound.com/2012/04/18/a-return-to-the-road/img_2043/trackback/
+15:27:52	Warning: 	File has moved from roadsunwound.com/2012/04/18/a-return-to-the-road/img_2043/trackback/ to http://roadsunwound.com/2012/04/18/a-return-to-the-road/img_2043/
+15:27:52	Warning: 	Found for roadsunwound.com/2012/04/18/a-return-to-the-road/img_2053/trackback/
+15:27:52	Warning: 	File has moved from roadsunwound.com/2012/04/18/a-return-to-the-road/img_2053/trackback/ to http://roadsunwound.com/2012/04/18/a-return-to-the-road/img_2053/
+15:28:24	Warning: 	Found for roadsunwound.com/2012/04/28/a-nicaraguan-sunset/img_2153/trackback/
+15:28:24	Warning: 	File has moved from roadsunwound.com/2012/04/28/a-nicaraguan-sunset/img_2153/trackback/ to http://roadsunwound.com/2012/04/28/a-nicaraguan-sunset/img_2153/
+15:28:24	Warning: 	Found for roadsunwound.com/2012/03/04/photo-of-the-day-xelaju-soccer-match/img_1760/trackback/
+15:28:24	Warning: 	File has moved from roadsunwound.com/2012/03/04/photo-of-the-day-xelaju-soccer-match/img_1760/trackback/ to http://roadsunwound.com/2012/03/04/photo-of-the-day-xelaju-soccer-match/img_1760/
+15:30:42	Warning: 	Found for roadsunwound.com/2012/03/01/photo-of-the-day-mercado-la-democracia/dsc_0021/trackback/
+15:30:42	Warning: 	File has moved from roadsunwound.com/2012/03/01/photo-of-the-day-mercado-la-democracia/dsc_0021/trackback/ to http://roadsunwound.com/2012/03/01/photo-of-the-day-mercado-la-democracia/dsc_0021/
+15:30:42	Warning: 	Found for roadsunwound.com/2011/01/18/sola-photography-exhibit/sola-announcement/trackback/
+15:30:42	Warning: 	File has moved from roadsunwound.com/2011/01/18/sola-photography-exhibit/sola-announcement/trackback/ to http://roadsunwound.com/2011/01/18/sola-photography-exhibit/sola-announcement/
+15:30:42	Warning: 	Found for roadsunwound.com/2010/07/07/bid-me-farewell/send-off-party-announcement-copy/trackback/
+15:30:42	Warning: 	File has moved from roadsunwound.com/2010/07/07/bid-me-farewell/send-off-party-announcement-copy/trackback/ to http://roadsunwound.com/2010/07/07/bid-me-farewell/send-off-party-announcement-copy/
+15:30:42	Warning: 	Found for roadsunwound.com/2010/06/27/my-trusty-steed/dsc_0164-copy/trackback/
+15:30:42	Warning: 	File has moved from roadsunwound.com/2010/06/27/my-trusty-steed/dsc_0164-copy/trackback/ to http://roadsunwound.com/2010/06/27/my-trusty-steed/dsc_0164-copy/
+
+HTTrack Website Copier/3.49-2 mirror complete in 25 minutes 48 seconds : 670 links scanned, 638 files written (31569176 bytes overall) [27634331 bytes received at 17851 bytes/sec], 6753596 bytes transferred using HTTP compression in 333 files, ratio 30%, 6.0 requests per connection
+(19 errors, 24 warnings, 0 messages)
